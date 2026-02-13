@@ -1,0 +1,1 @@
+Audio assets generated in-app using Web Audio API. This placeholder file ensures the directory exists.
